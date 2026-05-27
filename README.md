@@ -40,6 +40,3 @@ Predict whether a telecom customer will churn (leave the company) based on their
 2. Open the notebook in Google Colab
 3. Upload the CSV file when prompted
 4. Run all cells sequentially
-
-## Author
-Data Science Project
